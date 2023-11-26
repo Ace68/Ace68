@@ -10,6 +10,7 @@
 - 🔭 I’m currently working as Software Architect at Intré
 - 🌱 I’m currently learning Kotlin, Blazor and ASP.NET Core
 - 📙 I wrote a **book** about **Domain-Driven Desing** for **[Avanscoperta](https://leanpub.com/cronache-di-domain-driven-design)**
+- 📙 I wrote some **articles** about **Software Architecture, Microservices, DDD, Test** for **[Mokabyte](https://www.mokabyte.it/autore/alberto-acerbis/)**
 - 🧙‍♂️ I released a course "**[Introduzione a DDD, CQRS](https://agilereloaded.it/corsi/corso-ddd-cqrs-pattern/)**" on **Domain-Drive Design**
 - 🏃⛷ 🧗‍♂️ Sport fact: I am a passionate ski mountaineer, climber and runner
 
