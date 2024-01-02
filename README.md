@@ -14,3 +14,23 @@
 - 🧙‍♂️ I released a course "**[Introduzione a DDD, CQRS](https://agilereloaded.it/corsi/corso-ddd-cqrs-pattern/)**" on **Domain-Drive Design**
 - 🏃⛷ 🧗‍♂️ Sport fact: I am a passionate ski mountaineer, climber and runner
 
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [XMasDev 2023: Una Saga Salverà il Natale](https://www.youtube.com/watch?v=mlGbym11R7Y)
+- [1nn0vaSaturday 2023: Architettura Modulare](https://www.youtube.com/watch?v=eRkjxo21exM&pp=ygUPYWxiZXJ0byBhY2VyYmlz)
+- [BlazorConf 2023: BDD in Blazor using SpecFlow](https://www.youtube.com/watch?v=CMjFXxnLSqQ)
+- [BlazorConf 2022: Microfrontends, come DD sbarca nella UI](https://www.youtube.com/watch?v=DfhiXx0NYIY&pp=ygUPYWxiZXJ0byBhY2VyYmlz)
+- [AgileReloaded: Introduzione a DDD, CQRS](https://www.youtube.com/watch?v=3fCrSqaTzsc)
+- [SmallTalk 2021: EventSourcing, CQRS e Testing](https://www.youtube.com/watch?v=k5jPpWFJF3A&t=643s)
+- [XPUG 2020: Chaos Engineering](https://www.youtube.com/watch?v=KayvO4K9OwY&pp=ygUPYWxiZXJ0byBhY2VyYmlz)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
+
+---
