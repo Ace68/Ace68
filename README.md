@@ -29,7 +29,7 @@
 💻 [08/05/2024 - ABP DOTNET CONF - Tackling Chaos, Resilence & Metrics in the heart of your Application](https://github.com/BrewUp/ChaosAndResilience)  
 💻 [28/09/2024 - 1nn0va Saturday - Dimostrami che usi Azure ServiceBus](https://1nn0vasat2024.1nn0va.it/agenda.html)  
 💻 [13/09/2024 - DDD Taiwan - From EventStorming to Event Store passing through BDD](https://github.com/BrewUp/EventStoreDB-Course-2024)  
-💻 [14/06/2024 - Working Software - Bounded Context is not Enough!](https://github.com/BrewUp/DDD-Explore-2024)
+💻 [14/06/2024 - Working Software - Bounded Context is not Enough!](https://github.com/BrewUp/DDD-Explore-2024)  
 💻 [28/04/2024 - Global Azure Torino - Design Patterns for Distributed Systems](https://github.com/Ace68/PatternsOfDistributedSystems)  
 💻 [12/03/2024 - Explore DDDD - Bounded Context is not Enough!](https://github.com/BrewUp/DDD-Explore-2024)  
 💻 [16/02/2024 - Codegen - Eventually oppure Prima o Poi?](https://github.com/Ace68/CloudGen-2024)  
