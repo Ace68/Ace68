@@ -1,4 +1,6 @@
-# Hi, I'm Alberto 👋 🏃⛷ 🧗‍♂️💻
+# Hi, I'm Alberto 👋 🚴🏃⛷ 🧗‍♂️💻
+
+![Alberto](home.jpg)
 
 ## 🌎 Find me around the web 
 - Speaking in public conference <a href="https://sessionize.com/alberto-acerbis8252/" target="_blank">Sessionize</a> 🎦
