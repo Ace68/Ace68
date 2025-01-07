@@ -18,7 +18,25 @@
 <br />
 
 ---
+### 📺 Technical Sessions
+#### 2024
+💻 [13/12/2024 - XmasDev 2024 Roma - Monitring and Logging with .NET](https://github.com/Ace68/MonitoringAndLoggingWithDotNet)  
+💻 [23/11/2024 - Data Saturday Parma - Data Mesh: AKA DDD in the Data World](https://datasaturdays.com/Event/20241123-datasaturday0064#schedule)  
+💻 [28/11/2024 - WPC - DDD e CQRS in salsa .NET 20 anni dopo](https://github.com/Ace68/DDD-With-DotNET)  
+💻 [28/10/2024 - KanDDDinsky - Who fear the Saga?](https://github.com/BrewUp/KanDDDisky-2024)  
+💻 [19/10/2024 - AzureDay Torino - Sei Sicuro di Conoscere Azure ServiceBus?](https://github.com/Ace68/AzureDay-2024/tree/01-AzureServiceBus-SDK)  
+💻 [19/04/2024 - Blazor Conf - Blazor e SignalR](https://github.com/Ace68/BlazorAndDistributedSystems)  
+💻 [08/05/2024 - ABP DOTNET CONF - Tackling Chaos, Resilence & Metrics in the heart of your Application](https://github.com/BrewUp/ChaosAndResilience)  
+💻 [28/09/2024 - 1nn0va Saturday - Dimostrami che usi Azure ServiceBus](https://1nn0vasat2024.1nn0va.it/agenda.html)  
+💻 [13/09/2024 - DDD Taiwan - From EventStorming to Event Store passing through BDD](https://github.com/BrewUp/EventStoreDB-Course-2024)  
+💻 [14/06/2024 - Working Software - Bounded Context is not Enough!](https://github.com/BrewUp/DDD-Explore-2024)
+💻 [28/04/2024 - Global Azure Torino - Design Patterns for Distributed Systems](https://github.com/Ace68/PatternsOfDistributedSystems)  
+💻 [12/03/2024 - Explore DDDD - Bounded Context is not Enough!](https://github.com/BrewUp/DDD-Explore-2024)  
+💻 [16/02/2024 - Codegen - Eventually oppure Prima o Poi?](https://github.com/Ace68/CloudGen-2024)  
+💻 [27/01/2024 - 1nn0va .NET - Blazor e i Long Running Process](https://github.com/Ace68/BlazorAndDistributedSystems)  
 
+
+---
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
