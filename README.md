@@ -2,7 +2,8 @@
 
 ![Alberto](home.jpg)
 
-## 🌎 Find me around the web 
+## 🌎 Find me around the web
+
 - Speaking in public conference <a href="https://sessionize.com/alberto-acerbis8252/" target="_blank">Sessionize</a> 🎦
 - Sharing updates on <a href="https://www.linkedin.com/in/aacerbis/">LinkedIn</a> 💼
 - My site: <a href="https://www.albertoacerbis.com/" target="_blank">www.albertoacerbis.com</a>
@@ -20,8 +21,15 @@
 <br />
 
 ---
+
 ### 📺 Technical Sessions
+
+#### 2025
+
+💻 [25/01/2025 - .NET Saturday - Property Based Testing in .NET](https://github.com/Ace68/PropertyBasedTest)  
+
 #### 2024
+
 💻 [13/12/2024 - XmasDev Roma - Monitoring and Logging with .NET](https://github.com/Ace68/MonitoringAndLoggingWithDotNet)  
 💻 [23/11/2024 - Data Saturday Parma - Data Mesh: AKA DDD in the Data World](https://datasaturdays.com/Event/20241123-datasaturday0064#schedule)  
 💻 [28/11/2024 - WPC - DDD e CQRS in salsa .NET 20 anni dopo](https://github.com/Ace68/DDD-With-DotNET)  
@@ -37,21 +45,22 @@
 💻 [16/02/2024 - Codegen - Eventually oppure Prima o Poi?](https://github.com/Ace68/CloudGen-2024)  
 💻 [27/01/2024 - 1nn0va .NET - Blazor e i Long Running Process](https://github.com/Ace68/BlazorAndDistributedSystems)  
 
-
 #### 2023
+
 💻 [12/12/2023 - XmasDev Roma - Una Saga salverà il Natale](https://github.com/Ace68/XmasDev2023)  
 💻 [21/10/2023 - DevOps Heroes - Bounded Context is not enough!](https://github.com/BrewUp/DDD-Explore-2024)  
 💻 [14/10/2023 - AzureDay Torino - Evolutionary Architecture con .NET e Azure](https://github.com/Ace68/AzureDay-2023)  
+💻 [30/09/2023 - 1nn0va Saturday - DDD incontra i Dati (aka Data Mesh)](https://www.communityevents.it/1nn0va-saturday-2023)  
 💻 [26/07/2023 - WeAreDevelopers - Using .NET Core to build and deploy microservices architecture](https://github.com/BrewUp/ModularArchitecture)  
 💻 [30/06/2023 - WorkingSoftware - Tutti gli eventi sono testabili!](https://github.com/BrewUp/BrewUp-DDD_Europe_2023)  
 💻 [30/06/2023 - WorkingSoftware - Affoghiamo i microservizi nella birra](https://github.com/BrewUp/WorkingSoftware-2023)  
-💻 [24/06/2023 - AgileVenture Pordenone - DDD incontra i Dati (aka Data Mesh) ](https://agilemovement.it/venture/2023/pordenone/)  
+💻 [24/06/2023 - AgileVenture Pordenone - DDD incontra i Dati (aka Data Mesh)](https://agilemovement.it/venture/2023/pordenone/)  
 💻 [08/06/2023 - DDD Europe - All events are testable!](https://github.com/BrewUp/BrewUp-DDD_Europe_2023)  
 💻 [13/05/2023 - Global Azure Torino - Using .NET and Azure to build and deploy microservices architecture](https://github.com/BrewUp/ModularArchitecture)  
 💻 [19/04/2023 - Blazor Conf - BDD in Blazor using SpecFlow](https://github.com/Ace68/BlazorConf2023)  
 
-
 ---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
