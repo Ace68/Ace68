@@ -26,7 +26,11 @@
 
 #### 2025
 
+💻 [05/06/2025 - EventCentric - From Failures to Fault-Tolerance: Harnessing the Durable Execution Pattern](https://github.com/BrewUp/DDD-Europe-2025)  
+💻 [04/06/2025 - DDD Europe - Advanced Refactor Using DDD](https://github.com/BrewUp/DDD-Europe-2025)  
+💻 [10/05/2025 - Global Azure - CQRS + EventSourcing on Azure](https://github.com/Ace68/GlobalAzure-2025)  
 💻 [25/01/2025 - .NET Saturday - Property Based Testing in .NET](https://github.com/Ace68/PropertyBasedTest)  
+💻 [10/01/2025 - SharpCoding - Si fa presto a dire CQRS!](https://github.com/Ace68/CQRS-With-DotNET)  
 
 #### 2024
 
