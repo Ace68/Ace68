@@ -74,7 +74,7 @@ Domain-Driven Refactoring
  is a hands-on guide to applying Domain-Driven Design (DDD) principles to real-world codebases.  
  Instead of starting from scratch, it shows you how to incrementally refactor legacy monoliths into modular systems — and evolve them toward microservices when it makes sense.
 
-I[n this book you’ll learn how to:]
+In this book you’ll learn how to:
 
 Apply both strategic and tactical DDD techniques with confidence
 
