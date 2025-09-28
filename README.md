@@ -26,6 +26,8 @@
 
 #### 2025
 
+💻 [27/09/2025 - 1nn0AI - Costruisci le tue API con l'AI](https://github.com/Ace68/1nn0vAI-2025)  
+💻 [27/06/2025 - Working Software - Advanced Refactor using DDD](https://github.com/BrewUp/DDD-Europe-2025)  
 💻 [20/06/2025 - AzureDay Roma - Le Novità di SQL Server 2025](https://github.com/Ace68/AzureDayRome-2025)  
 💻 [05/06/2025 - EventCentric - From Failures to Fault-Tolerance: Harnessing the Durable Execution Pattern](https://github.com/BrewUp/DDD-Europe-2025)  
 💻 [04/06/2025 - DDD Europe - Advanced Refactor Using DDD](https://github.com/BrewUp/DDD-Europe-2025)  
