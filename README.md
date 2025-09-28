@@ -68,6 +68,29 @@
 
 ---
 
+### 📺 Buy this book
+
+Domain-Driven Refactoring
+ is a hands-on guide to applying Domain-Driven Design (DDD) principles to real-world codebases.  
+ Instead of starting from scratch, it shows you how to incrementally refactor legacy monoliths into modular systems — and evolve them toward microservices when it makes sense.
+
+I[n this book you’ll learn how to:]
+
+Apply both strategic and tactical DDD techniques with confidence
+
+Untangle complex, messy domains and rediscover the core business logic
+
+Refactor large monoliths step by step into well-structured modules
+
+Make sound architectural choices around integration, events, and data
+
+Whether you’re a developer, architect, or tech lead, this book gives you practical patterns and examples to modernize your systems without a full rewrite.
+
+👉 [Get your copy on Amazon](https://www.amazon.it/Domain-Driven-Refactoring-hands-transforming-microservices/dp/1835889107)
+
+![Book](DDR-Book.jpg)
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
