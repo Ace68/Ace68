@@ -26,6 +26,7 @@
 
 #### 2025
 
+💻 [03/10/2025 - #4{Dev} - Refactoring Legacy Code: un approccio DDD](https://github.com/Ace68/Sharp4Dev-2025)  
 💻 [27/09/2025 - 1nn0AI - Costruisci le tue API con l'AI](https://github.com/Ace68/1nn0vAI-2025)  
 💻 [27/06/2025 - Working Software - Advanced Refactor using DDD](https://github.com/BrewUp/DDD-Europe-2025)  
 💻 [20/06/2025 - AzureDay Roma - Le Novità di SQL Server 2025](https://github.com/Ace68/AzureDayRome-2025)  
