@@ -16,7 +16,7 @@
 - 📙 I co-authored a **book** about **Domain-Driven Refactporing** with **[Packt](https://www.packtpub.com/en-us/product/domain-driven-refactoring-9781835889107)**
 - 📙 I wrote some **articles** about **Software Architecture, Microservices, DDD, Test** for **[Mokabyte](https://www.mokabyte.it/autore/alberto-acerbis/)**
 - 🧙‍♂️ I released a course "**[Introduzione a DDD, CQRS](https://agilereloaded.it/corsi/corso-ddd-cqrs-pattern/)**" on **Domain-Drive Design**
-- 🚴🏃⛷ 🧗‍♂️ Sport fact: I am a passionate ski mountaineer, climber,runner and biker
+- 🚴🏃⛷ 🧗‍♂️ Sport fact: I am a passionate ski mountaineer, climber, runner and biker
 
 <br />
 <br />
@@ -27,6 +27,7 @@
 
 #### 2025
 
+💻 [28/11/2025 - .NET Conference 2025 - Milano - Panta Rei: Architetture pronte al cambiamento](https://github.com/Ace68/DotNetConference-Milano-2025)  
 💻 [26/10/2025 - KanDDDinsky - All Events are Testable](https://github.com/BrewUp/KanDDDinsky_2025)  
 💻 [03/10/2025 - #4{Dev} - Refactoring Legacy Code: un approccio DDD](https://github.com/Ace68/Sharp4Dev-2025)  
 💻 [27/09/2025 - 1nn0AI - Costruisci le tue API con l'AI](https://github.com/Ace68/1nn0vAI-2025)  
