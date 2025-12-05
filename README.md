@@ -27,6 +27,7 @@
 
 #### 2025
 
+💻 [03/12/2025 - Scenari-Event-Driven-SQL-Server-2025](https://github.com/Ace68/CES-Microservices)  
 💻 [28/11/2025 - .NET Conference 2025 - Milano - Panta Rei: Architetture pronte al cambiamento](https://github.com/Ace68/DotNetConference-Milano-2025)  
 💻 [26/10/2025 - KanDDDinsky - All Events are Testable](https://github.com/BrewUp/KanDDDinsky_2025)  
 💻 [03/10/2025 - #4{Dev} - Refactoring Legacy Code: un approccio DDD](https://github.com/Ace68/Sharp4Dev-2025)  
