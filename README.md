@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as Software Architect at Intré
 - 🌱 I’m currently learning Advanced Software Architectural Patterns
-- 📙 I wrote a **book** about **Domain-Driven Desing** with **[Avanscoperta](https://leanpub.com/cronache-di-domain-driven-design)**
+- 📙 I co-authored a **book** about **Domain-Driven Desing** with **[Avanscoperta](https://leanpub.com/cronache-di-domain-driven-design)**
 - 📙 I co-authored a **book** about **Domain-Driven Refactporing** with **[Packt](https://www.packtpub.com/en-us/product/domain-driven-refactoring-9781835889107)**
 - 📙 I wrote some **articles** about **Software Architecture, Microservices, DDD, Test** for **[Mokabyte](https://www.mokabyte.it/autore/alberto-acerbis/)**
 - 🧙‍♂️ I released a course "**[Introduzione a DDD, CQRS](https://agilereloaded.it/corsi/corso-ddd-cqrs-pattern/)**" on **Domain-Drive Design**
