@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning Advanced Software Architectural Patterns
 - 📙 I co-authored a **book** about **Domain-Driven Desing** with **[Avanscoperta](https://leanpub.com/cronache-di-domain-driven-design)**
 - 📙 I co-authored a **book** about **Domain-Driven Refactporing** with **[Packt](https://www.packtpub.com/en-us/product/domain-driven-refactoring-9781835889107)**
+- 📙 I wrote a **book** about **Architetture Evolutive** with **[MokaByte](https://mokabyte.it/2025/12/09/architetture-evolutive-ebook/)**
 - 📙 I wrote some **articles** about **Software Architecture, Microservices, DDD, Test** for **[Mokabyte](https://www.mokabyte.it/autore/alberto-acerbis/)**
 - 🧙‍♂️ I released a course "**[Introduzione a DDD, CQRS](https://agilereloaded.it/corsi/corso-ddd-cqrs-pattern/)**" on **Domain-Drive Design**
 - 🚴🏃⛷ 🧗‍♂️ Sport fact: I am a passionate ski mountaineer, climber, runner and biker
@@ -27,7 +28,8 @@
 
 #### 2025
 
-💻 [03/12/2025 - Scenari-Event-Driven-SQL-Server-2025](https://github.com/Ace68/CES-Microservices)  
+💻 [12/12/2025 - XMasDev - Dalla slitta al codice: Babbo Natale usa agenti AI per generare API con prompt magici](https://github.com/Ace68/Spec-DrivenDevelopment)  
+💻 [03/12/2025 - WPC - Scenari-Event-Driven-SQL-Server-2025](https://github.com/Ace68/CES-Microservices)  
 💻 [28/11/2025 - .NET Conference 2025 - Milano - Panta Rei: Architetture pronte al cambiamento](https://github.com/Ace68/DotNetConference-Milano-2025)  
 💻 [26/10/2025 - KanDDDinsky - All Events are Testable](https://github.com/BrewUp/KanDDDinsky_2025)  
 💻 [03/10/2025 - #4{Dev} - Refactoring Legacy Code: un approccio DDD](https://github.com/Ace68/Sharp4Dev-2025)  
@@ -96,13 +98,29 @@ Whether you’re a developer, architect, or tech lead, this book gives you pract
 ![Book](DDR-Book.jpg)
 ---
 
+### 📺 Download this book
+
+Architetture Evolutive
+ "Beyond the Code: Software Architectures for a Complex World" could be a good way to summarize what the reader will find in these pages. This book is aimed at software developers and architects, essential for shifting the focus from the solution to the problem space.
+
+How can we build software systems capable of reflecting the realities of business and standing the test of time? What does it mean to create an evolutionary architecture able to adapt to the complex and ever-changing world in which we operate? What is the role of the Software Architect in today’s software development landscape?
+
+Evolutionary architectures, DDD, microservices. This comprehensive overview addresses these and other questions through a ten-chapter journey that goes beyond the “how” to explore the “why,” guided by a clear philosophy.
+
+👉 [Get your copy on MokaByte](https://mokabyte.it/2025/12/09/architetture-evolutive-ebook/)
+
+![Book](ArchitettureEvolutive-Book.jpg)
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [XMasDev 2025: Dalla slitta al codice: Babbo Natale usa agenti AI per generare API con prompt magici](https://www.youtube.com/watch?v=nxjV2i8l3WA)
+- [GOTO Book: Domain-Driven Refactoring • Alessandro Colla, Alberto Acerbis & Xin Yao](https://www.youtube.com/watch?v=idoD5BFxWdI)
 - [XMasDev 2023: Una Saga Salverà il Natale](https://www.youtube.com/watch?v=mlGbym11R7Y)
 - [1nn0vaSaturday 2023: Architettura Modulare](https://www.youtube.com/watch?v=eRkjxo21exM&pp=ygUPYWxiZXJ0byBhY2VyYmlz)
 - [BlazorConf 2023: BDD in Blazor using SpecFlow](https://www.youtube.com/watch?v=CMjFXxnLSqQ)
-- [BlazorConf 2022: Microfrontends, come DD sbarca nella UI](https://www.youtube.com/watch?v=DfhiXx0NYIY&pp=ygUPYWxiZXJ0byBhY2VyYmlz)
+- [BlazorConf 2022: Microfrontends, come DDD sbarca nella UI](https://www.youtube.com/watch?v=DfhiXx0NYIY&pp=ygUPYWxiZXJ0byBhY2VyYmlz)
 - [AgileReloaded: Introduzione a DDD, CQRS](https://www.youtube.com/watch?v=3fCrSqaTzsc)
 - [SmallTalk 2021: EventSourcing, CQRS e Testing](https://www.youtube.com/watch?v=k5jPpWFJF3A&t=643s)
 - [XPUG 2020: Chaos Engineering](https://www.youtube.com/watch?v=KayvO4K9OwY&pp=ygUPYWxiZXJ0byBhY2VyYmlz)
