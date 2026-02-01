@@ -26,6 +26,11 @@
 
 ### 📺 Technical Sessions
 
+#### 2026
+
+💻 [31/01/2026 - 1nn0va .NET Saturday - Domain-Driven Design con le Minimal API: meno boilerplate, stesso dominio](https://github.com/Ace68/ArchitettureEvolutive)  
+💻 [31/01/2026 - 1nn0va .NET Saturday - C# e il paradigma funzionale](https://github.com/jesuswasrasta/car-sharp)  
+
 #### 2025
 
 💻 [12/12/2025 - XMasDev - Dalla slitta al codice: Babbo Natale usa agenti AI per generare API con prompt magici](https://github.com/Ace68/Spec-DrivenDevelopment)  
