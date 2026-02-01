@@ -30,6 +30,7 @@
 
 💻 [31/01/2026 - 1nn0va .NET Saturday - Domain-Driven Design con le Minimal API: meno boilerplate, stesso dominio](https://github.com/Ace68/ArchitettureEvolutive)  
 💻 [31/01/2026 - 1nn0va .NET Saturday - C# e il paradigma funzionale](https://github.com/jesuswasrasta/car-sharp)  
+💻 [22/01/2026 - KLab Community - Scenari Event-Driven con SQL Server 2025](https://github.com/Ace68/CES-Microservices)  
 
 #### 2025
 
