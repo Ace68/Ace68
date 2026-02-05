@@ -10,7 +10,7 @@
 
 ## ✨ Current situation
 
-- 🔭 I’m currently working as Software Architect at Intré
+- 🔭 I’m currently working as Software Architect and Trainer at Intré
 - 🌱 I’m currently learning Advanced Software Architectural Patterns
 - 📙 I co-authored a **book** about **Domain-Driven Desing** with **[Avanscoperta](https://leanpub.com/cronache-di-domain-driven-design)**
 - 📙 I co-authored a **book** about **Domain-Driven Refactporing** with **[Packt](https://www.packtpub.com/en-us/product/domain-driven-refactoring-9781835889107)**
