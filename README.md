@@ -28,8 +28,11 @@
 
 #### 2026
 
-💻 [10/04/2026 - Blazor Conf - Clean Architecture in Blazor: principi, compromessi e cattive idee da evitare ](https://github.com/BrewUp/BrewUpErp)  
-💻 [07/03/2026 - DataSaturday Romania - Event-Driven Architectures with SQL Server 2025 and Change Event Streaming ](https://github.com/Ace68/CES-Microservices)  
+💻 [20/06/2026 - Talk & Walk - Deleuze in produzione: una camminata tra differenza, oggetti e codice](https://torinodot.net/eventi/2026/04/talk-and-walk-2026/)  
+💻 [09/06/2026 - Sharp4AI - MCP as Architecture: From Tool Calling to Autonomous Systems](https://github.com/BrewUp/BrewUpErp)  
+💻 [22/05/2026 - XE One Day - Architettura del Software - L’AI scrive codice. Ma chi capisce il dominio?](https://github.com/BrewUp/BrewUpErp)  
+💻 [10/04/2026 - Blazor Conf - Clean Architecture in Blazor: principi, compromessi e cattive idee da evitare](https://github.com/BrewUp/BrewUpErp)  
+💻 [07/03/2026 - DataSaturday Romania - Event-Driven Architectures with SQL Server 2025 and Change Event Streaming](https://github.com/Ace68/CES-Microservices)  
 💻 [31/01/2026 - 1nn0va .NET Saturday - Domain-Driven Design con le Minimal API: meno boilerplate, stesso dominio](https://github.com/Ace68/ArchitettureEvolutive)  
 💻 [31/01/2026 - 1nn0va .NET Saturday - C# e il paradigma funzionale](https://github.com/jesuswasrasta/car-sharp)  
 💻 [22/01/2026 - KLab Community - Scenari Event-Driven con SQL Server 2025](https://github.com/Ace68/CES-Microservices)  
