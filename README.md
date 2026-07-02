@@ -4,7 +4,7 @@
 
 ## 🌎 Find me around the web
 
-- Speaking in public conference <a href="https://sessionize.com/alberto-acerbis8252/" target="_blank">Sessionize</a> 🎦
+- Speaking in public conferences <a href="https://sessionize.com/alberto-acerbis8252/" target="_blank">Sessionize</a> 🎦
 - Sharing updates on <a href="https://www.linkedin.com/in/aacerbis/">LinkedIn</a> 💼
 - My site: <a href="https://www.albertoacerbis.com/" target="_blank">www.albertoacerbis.com</a>
 
