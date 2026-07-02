@@ -1,6 +1,6 @@
 # Hi, I'm Alberto 👋 🚴🏃⛷ 🧗‍♂️💻
 
-![Alberto](home.jpg)
+![Alberto](home.png)
 
 ## 🌎 Find me around the web
 
@@ -28,6 +28,7 @@
 
 #### 2026
 
+💻 [01/07/2026 - DWX - Spec-Driven Development: Redefining the Software Architect in the AI Era](https://github.com/BrewUp/DWX26)  
 💻 [20/06/2026 - Talk & Walk - Deleuze in produzione: una camminata tra differenza, oggetti e codice](https://torinodot.net/eventi/2026/04/talk-and-walk-2026/)  
 💻 [09/06/2026 - Sharp4AI - MCP as Architecture: From Tool Calling to Autonomous Systems](https://github.com/BrewUp/BrewUpErp)  
 💻 [22/05/2026 - XE One Day - Architettura del Software - L’AI scrive codice. Ma chi capisce il dominio?](https://github.com/BrewUp/BrewUpErp)  
