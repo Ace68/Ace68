@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working as Software Architect and Trainer at Intré
 - 🌱 I’m a learner  
-- 📙 I co-authored a **book** about **Domain-Driven Desing** with **[Avanscoperta](https://leanpub.com/cronache-di-domain-driven-design)**
-- 📙 I co-authored a **book** about **Domain-Driven Refactporing** with **[Packt](https://www.packtpub.com/en-us/product/domain-driven-refactoring-9781835889107)**
-- 📙 I wrote a **book** about **Architetture Evolutive** with **[MokaByte](https://mokabyte.it/2025/12/09/architetture-evolutive-ebook/)**
+- 📙 I co-authored the book **Cronache di Domain-Driven Desing** with **[Avanscoperta](https://leanpub.com/cronache-di-domain-driven-design)**
+- 📙 I co-authored the book **Domain-Driven Refactoring** with **[Packt](https://www.packtpub.com/en-us/product/domain-driven-refactoring-9781835889107)**
+- 📙 I wrote the book **Architetture Evolutive** with **[MokaByte](https://mokabyte.it/2025/12/09/architetture-evolutive-ebook/)**
 - 📙 I wrote some **articles** about **Software Architecture, Microservices, DDD, Test** for **[Mokabyte](https://www.mokabyte.it/autore/alberto-acerbis/)**
 - 🧙‍♂️ I released a course "**[Introduzione a DDD, CQRS](https://agilereloaded.it/corsi/corso-ddd-cqrs-pattern/)**" on **Domain-Drive Design**
 - 🚴🏃⛷ 🧗‍♂️ Sport fact: I am a passionate ski mountaineer, climber, runner and biker
