@@ -28,6 +28,9 @@
 
 #### 2026
 
+💻 [15/10/2026 - KanDDDinsky - DDD Refactoring: from monolith to events a pratical guide](https://github.com/BrewUp/KanDDDinsky-2026)  
+💻 [26/09/2026 - 1nn0vAI - Dall'MCP ai Sistemi Multi-Agente: progettare organizzazioni digitali con l'AI](https://github.com/BrewUp/BrewUpErp)  
+💻 [26/09/2026 - 1nn0vAI - Spec-Driven Development: Redefining the Software Architect in the AI Era](https://github.com/BrewUp/DWX26)  
 💻 [01/07/2026 - DWX - Spec-Driven Development: Redefining the Software Architect in the AI Era](https://github.com/BrewUp/DWX26)  
 💻 [20/06/2026 - Talk & Walk - Deleuze in produzione: una camminata tra differenza, oggetti e codice](https://torinodot.net/eventi/2026/04/talk-and-walk-2026/)  
 💻 [09/06/2026 - Sharp4AI - MCP as Architecture: From Tool Calling to Autonomous Systems](https://github.com/BrewUp/BrewUpErp)  
@@ -88,7 +91,22 @@
 
 ---
 
-### 📺 Buy this book
+### 📺 Buy these books
+
+AI-Augmented Domain-Driven Design
+ Apply AI to Domain-Driven Design with LLMs, prompt engineering, and multi-agent systems.  
+ Build repeatable domain modeling workflows that strengthen software architecture decisions, domain clarity, and consistency.
+
+In this book you'll learn how to:
+> Apply LLMs as structured reasoning partners for Domain-Driven Design  
+> Advance domain modeling with structured prompts and EventStorming  
+> Design AI agents and multi-agent systems for DDD workflows  
+> Strengthen software architecture decisions with AI-assisted reasoning  
+> Refine domain events, aggregates, and bounded contexts with AI  
+
+👉 [Get your copy on Amazon](https://www.amazon.it/AI-Augmented-Domain-Driven-Design-Multi-Agent-Workflows-ebook/dp/B0HKDDDDSM)
+
+![Book](AI-DDD.png)
 
 Domain-Driven Refactoring
  is a hands-on guide to applying Domain-Driven Design (DDD) principles to real-world codebases.  
@@ -96,13 +114,10 @@ Domain-Driven Refactoring
 
 In this book you’ll learn how to:
 
-Apply both strategic and tactical DDD techniques with confidence
-
-Untangle complex, messy domains and rediscover the core business logic
-
-Refactor large monoliths step by step into well-structured modules
-
-Make sound architectural choices around integration, events, and data
+> Apply both strategic and tactical DDD techniques with confidence  
+> Untangle complex, messy domains and rediscover the core business logic  
+> Refactor large monoliths step by step into well-structured modules  
+> Make sound architectural choices around integration, events, and data  
 
 Whether you’re a developer, architect, or tech lead, this book gives you practical patterns and examples to modernize your systems without a full rewrite.
 
